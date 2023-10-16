@@ -1,6 +1,6 @@
 <template>
   <div class="container">
-    <NuxtLink to="/demo/home" class="">a</NuxtLink>
+    <NuxtLink to="/demo/home" class="">aaa</NuxtLink>
   </div>
   <Navbar
     expand="lg"
