@@ -9,8 +9,9 @@ githubのCodespacesの使い方を再確認
 ## 今後解決すべき課題
 
 - わからないこと
-- 疑問点など
 
+- 疑問点など
+フロントの部分はできるが、バックエンドの部分が心配
 # Nuxt 3 Minimal Starter
 
 Look at the [nuxt 3 documentation](https://v3.nuxtjs.org) to learn more.
