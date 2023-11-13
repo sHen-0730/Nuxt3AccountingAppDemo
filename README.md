@@ -1,9 +1,10 @@
 # 目標
-ログインさせないサイトの制作
+UIの悪いサイトの制作
 
 ## 今すぐに達成すべき課題
 - 若林
 （自分が作ろうとしてるイメージをXDでプロトタイプを作って共有）
+
 - チーム
 githubのCodespacesの使い方を再確認
 ## 今後解決すべき課題
@@ -11,7 +12,7 @@ githubのCodespacesの使い方を再確認
 - わからないこと
 
 - 疑問点など
-フロントの部分はできるが、バックエンドの部分が心配
+
 # Nuxt 3 Minimal Starter
 
 Look at the [nuxt 3 documentation](https://v3.nuxtjs.org) to learn more.
